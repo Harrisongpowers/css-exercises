@@ -1,0 +1,19 @@
+p {
+  font-family: Verdna, DejaVu Sans, sans-serif;
+  background-color: indianred;
+}
+
+.bigMlue {
+  color: blue;
+  font-size: 36px;
+}
+
+.bigMid {
+  font-size: 24px;
+}
+
+.hulk {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: green;
+}
